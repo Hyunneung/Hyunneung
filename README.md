@@ -5,12 +5,12 @@
 ## 🔭 I’m currently working on
 ![Hyunneung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunneung&theme=buefy&show_icons=true)
 <br>
-💪 I’m currently Top Languages
+## 💪 I’m currently Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunneung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
-## 🛠 Skills
+## 🛠 I’m currently learning
 <!-- 백엔드 -->
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
 <br>
